@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>NHS Search, Sort and Pagination 1.0.3 release</Description>
+    <PackageId>NHSUKSearchSortFilterPaginate</PackageId>
+    <Nullable>enable</Nullable>    
+    <Version>1.0.3</Version>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <None Include="css\shared\searchableElements\*" Pack="true" PackagePath="wwwroot\css\shared\searchableElements\"></None>
+    <None Include="Views\Shared\**\*.*" Pack="true" PackagePath="Views\Shared"></None>
+    <None Include="build\NHSUKSearchSortFilterPaginate.props" Pack="true" PackagePath="build"></None>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="FuzzySharp" Version="2.0.2" />
+    <PackageReference Include="Microsoft.FeatureManagement.AspNetCore" Version="2.0.0" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,512 @@
+﻿++Solution 'DigitalLearningSolutions' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:DigitalLearningSolutions.sln
+++DigitalLearningSolutions.Web
+++Dependencies
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:>322
+++Imports
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:>168
+++bin
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\
+++Enums
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\enums\
+++FilterStatus.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\enums\filterstatus.cs
+++Extensions
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\extensions\
+++EnumerableExtensions.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\extensions\enumerableextensions.cs
+++QueryableExtensions.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\extensions\queryableextensions.cs
+++Helpers
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\helpers\
+++GenericSearchHelper.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\helpers\genericsearchhelper.cs
+++GenericSortingHelper.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\helpers\genericsortinghelper.cs
+++ModelBinders
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\modelbinders\
+++Models
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\
+++SearchSortFilterPaginate
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\
+++BaseSearchableItem.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\basesearchableitem.cs
+++FilterModel.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\filtermodel.cs
+++FilterOptionModel.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\filteroptionmodel.cs
+++FilterOptions.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\filteroptions.cs
+++PaginationOptions.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\paginationoptions.cs
+++PaginationResult.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\paginationresult.cs
+++ReturnPageQuery.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\returnpagequery.cs
+++SearchOptions.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\searchoptions.cs
+++SearchSortFilterAndPaginateOptions.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\searchsortfilterandpaginateoptions.cs
+++SearchSortFilterPaginationResult.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\searchsortfilterpaginationresult.cs
+++SortOptions.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\models\searchsortfilterpaginate\sortoptions.cs
+++obj
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\
+++ViewModels
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\viewmodels\
+++Common
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\viewmodels\common\
+++SearchablePage
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\viewmodels\common\searchablepage\
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\
+++AppliedFilterViewModel.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\viewmodels\common\searchablepage\appliedfilterviewmodel.cs
+++BaseFilterableViewModel.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\viewmodels\common\searchablepage\basefilterableviewmodel.cs
+++BaseJavascriptFilterableViewModel.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\viewmodels\common\searchablepage\basejavascriptfilterableviewmodel.cs
+++BasePaginatedViewModel.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\viewmodels\common\searchablepage\basepaginatedviewmodel.cs
+++BaseSearchablePageViewModel.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\viewmodels\common\searchablepage\basesearchablepageviewmodel.cs
+++CurrentFiltersViewModel.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\viewmodels\common\searchablepage\currentfiltersviewmodel.cs
+++OldBasePaginatedViewModel.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\viewmodels\common\searchablepage\oldbasepaginatedviewmodel.cs
+++SearchableTagViewModel.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\viewmodels\common\searchablepage\searchabletagviewmodel.cs
+++Views
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\
+++Shared
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\
+++PaginatedPage
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\paginatedpage\
+++_BaseConfigurablePaginationNav.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\paginatedpage\_baseconfigurablepaginationnav.cshtml
+++_BottomPaginationNav.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\paginatedpage\_bottompaginationnav.cshtml
+++_BottomPaginationNavWithAlert.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\paginatedpage\_bottompaginationnavwithalert.cshtml
+++_Pagination.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\paginatedpage\_pagination.cshtml
+++_TopPaginationNav.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\paginatedpage\_toppaginationnav.cshtml
+++Configurations
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\configurations\
+++_FullWidthSearchSortAndFilter.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\configurations\_fullwidthsearchsortandfilter.cshtml
+++_ResultsCountAndItemsPerPage.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\configurations\_resultscountanditemsperpage.cshtml
+++_SortAndFilter.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\configurations\_sortandfilter.cshtml
+++_ThreeQuarterWidthSearchAndFilter.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\configurations\_threequarterwidthsearchandfilter.cshtml
+++_ThreeQuarterWidthSearchSortAndFilter.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\configurations\_threequarterwidthsearchsortandfilter.cshtml
+++_AppliedFilterTag.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_appliedfiltertag.cshtml
+++_BottomPagination.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_bottompagination.cshtml
+++_FilterableTags.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_filterabletags.cshtml
+++_Filters.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_filters.cshtml
+++_ItemsPerPageSelect.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_itemsperpageselect.cshtml
+++_ResultCountAndPageAlerts.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_resultcountandpagealerts.cshtml
+++_Search.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_search.cshtml
+++_SearchResultsCount.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_searchresultscount.cshtml
+++_SearchResultsCountWithAlert.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_searchresultscountwithalert.cshtml
+++_SearchSortFilterInputsForPagination.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_searchsortfilterinputsforpagination.cshtml
+++_Sort.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_sort.cshtml
+++_TopPagination.cshtml
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\views\shared\searchablepage\_toppagination.cshtml
+++Frameworks
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:frameworks
+++Packages
+++Sdk.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Debug
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\
+++ReturnPageQueryModelBinder.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\modelbinders\returnpagequerymodelbinder.cs
+++NHSUKSearchSortFilterPaginate.csproj.nuget.dgspec.json
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\NHSUKSearchSortFilterPaginate.csproj.nuget.dgspec.json
+++NHSUKSearchSortFilterPaginate.csproj.nuget.g.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\NHSUKSearchSortFilterPaginate.csproj.nuget.g.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\NHSUKSearchSortFilterPaginate.csproj.nuget.g.props
+++NHSUKSearchSortFilterPaginate.csproj.nuget.g.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\NHSUKSearchSortFilterPaginate.csproj.nuget.g.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\NHSUKSearchSortFilterPaginate.csproj.nuget.g.targets
+++project.assets.json
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\project.assets.json
+++project.nuget.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\project.nuget.cache
+++Microsoft.NETCore.App
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\microsoft.netcore.app
+++Microsoft.WindowsDesktop.App.WPF
+++FuzzySharp (2.0.2)
+++Microsoft.FeatureManagement.AspNetCore (2.5.1)
+++Microsoft.Common.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++net6.0-windows
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\net6.0-windows\
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\
+++netcoreapp3.1
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\netcoreapp3.1\
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\
+++DLS.DATA.0.0.1.nupkg
+++DLS.DATA.0.0.1.nuspec
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\dls.data.0.0.1.nuspec
+++Microsoft.NuGet.ImportBefore.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Windows.targets
+++Microsoft.NET.Sdk.WindowsDesktop.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++NHSUKSearchSortFilterPaginate.deps.json
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.deps.json
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\net6.0\NHSUKSearchSortFilterPaginate.deps.json
+++NHSUKSearchSortFilterPaginate.dll
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.dll
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\refint\NHSUKSearchSortFilterPaginate.dll
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.dll
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\ref\NHSUKSearchSortFilterPaginate.dll
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\NHSUKSearchSortFilterPaginate.dll
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\refint\NHSUKSearchSortFilterPaginate.dll
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\net6.0\NHSUKSearchSortFilterPaginate.dll
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\ref\NHSUKSearchSortFilterPaginate.dll
+++NHSUKSearchSortFilterPaginate.pdb
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.pdb
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.pdb
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\NHSUKSearchSortFilterPaginate.pdb
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\net6.0\NHSUKSearchSortFilterPaginate.pdb
+++ref
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\ref\
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\ref\
+++refint
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\refint\
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\refint\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\.netcoreapp,version=v6.0.assemblyattributes.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++NHSUKSearchSortFilterPaginate.AssemblyInfo.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.assemblyinfo.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.assemblyinfo.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\NHSUKSearchSortFilterPaginate.assemblyinfo.cs
+++NHSUKSearchSortFilterPaginate.AssemblyInfoInputs.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.assemblyinfoinputs.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.assemblyinfoinputs.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\NHSUKSearchSortFilterPaginate.assemblyinfoinputs.cache
+++NHSUKSearchSortFilterPaginate.assets.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.assets.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.assets.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\NHSUKSearchSortFilterPaginate.assets.cache
+++NHSUKSearchSortFilterPaginate.csproj.AssemblyReference.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.csproj.assemblyreference.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.csproj.assemblyreference.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\NHSUKSearchSortFilterPaginate.csproj.assemblyreference.cache
+++NHSUKSearchSortFilterPaginate.GeneratedMSBuildEditorConfig.editorconfig
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.generatedmsbuildeditorconfig.editorconfig
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.generatedmsbuildeditorconfig.editorconfig
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\NHSUKSearchSortFilterPaginate.generatedmsbuildeditorconfig.editorconfig
+++.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\.netcoreapp,version=v3.1.assemblyattributes.cs
+++NHSUKSearchSortFilterPaginate.csproj.CoreCompileInputs.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.csproj.corecompileinputs.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.csproj.corecompileinputs.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\NHSUKSearchSortFilterPaginate.csproj.corecompileinputs.cache
+++NHSUKSearchSortFilterPaginate.csproj.FileListAbsolute.txt
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.csproj.filelistabsolute.txt
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.csproj.filelistabsolute.txt
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\NHSUKSearchSortFilterPaginate.csproj.filelistabsolute.txt
+++DigitalLearningSolutions.Web.AssemblyInfo.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\digitallearningsolutions.web.assemblyinfo.cs
+++DigitalLearningSolutions.Web.AssemblyInfoInputs.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\digitallearningsolutions.web.assemblyinfoinputs.cache
+++DigitalLearningSolutions.Web.assets.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\digitallearningsolutions.web.assets.cache
+++DigitalLearningSolutions.Web.csproj.AssemblyReference.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\digitallearningsolutions.web.csproj.assemblyreference.cache
+++DigitalLearningSolutions.Web.GeneratedMSBuildEditorConfig.editorconfig
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\digitallearningsolutions.web.generatedmsbuildeditorconfig.editorconfig
+++Microsoft.NuGet.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.WinFX.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.NET.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Docker.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++New folder
+++SearchHelper.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\helpers\searchhelper.cs
+++SelectListHelper.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\helpers\selectlisthelper.cs
+++DigitalLearningSolutions.Web.csproj.CoreCompileInputs.cache
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\digitallearningsolutions.web.csproj.corecompileinputs.cache
+++DigitalLearningSolutions.Web.csproj.FileListAbsolute.txt
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\digitallearningsolutions.web.csproj.filelistabsolute.txt
+++DigitalLearningSolutions.Web.dll
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\digitallearningsolutions.web.dll
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\netcoreapp3.1\digitallearningsolutions.web.dll
+++DigitalLearningSolutions.Web.pdb
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\digitallearningsolutions.web.pdb
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\netcoreapp3.1\digitallearningsolutions.web.pdb
+++DigitalLearningSolutions.Web.deps.json
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\netcoreapp3.1\digitallearningsolutions.web.deps.json
+++NHSUKSearchSortFilterPaginate.csproj
+++NHSUKSearchSortFilterPaginate
+i:{00000000-0000-0000-0000-000000000000}:NHSUKSearchSortFilterPaginate
+++build
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\build\
+++NHSUKSearchSortFilterPaginate.props
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\build\NHSUKSearchSortFilterPaginate.props
+++NHSUKViewComponents.Web.props
+++css
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\css\
+++shared
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\css\shared\
+++searchableElements
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableelements\
+++common.css
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableelements\common.css
+++filter.css
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableelements\filter.css
+++itemsPerPage.css
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableelements\itemsperpage.css
+++pagination.css
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableelements\pagination.css
+++search.css
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableelements\search.css
+++searchableElements.css
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableelements\searchableelements.css
+++sort.css
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableelements\sort.css
+++DLS.WEB.0.0.1.nuspec
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\dls.web.0.0.1.nuspec
+++DLS.WEB.0.0.1.nupkg
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\dls.web.0.0.1.nupkg
+++DLS.WEB.0.0.11.nuspec
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\dls.web.0.0.11.nuspec
+++DLS.WEB.0.0.11.nupkg
+++NHSUKViewComponents.Web.0.0.11.nuspec
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\nhsukviewcomponents.web.0.0.11.nuspec
+++NHSUKViewComponents.Web.0.0.11.nupkg
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Analyzers
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:analyzers
+++C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.201\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++net6.0
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\bin\debug\net6.0\
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\
+++NHSUKSearchSortFilterPaginate.GlobalUsings.g.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0\NHSUKSearchSortFilterPaginate.globalusings.g.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.globalusings.g.cs
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\development\dls nuget\digitallearningsolutions\NHSUKSearchSortFilterPaginate\obj\debug\net6.0-windows\NHSUKSearchSortFilterPaginate.globalusings.g.cs
+++SelectListHelper.cs~RF163d73dd.TMP
+++Microsoft.AspNet.Mvc (5.2.9)
+++Microsoft.AspNetCore.App.Analyzers
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{0f7c226d-bfd2-4f79-a8af-431dd610c093}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Mvc.ViewFeatures (2.2.0)
+++Microsoft.FeatureManagement.AspNetCore (2.0.0)

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NHSUKViewComponents.Web</id>
+    <version>0.0.11</version>
+    <authors>NHSUKSearchSortFilterPaginate</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/TechnologyEnhancedLearning/NHSDesignSystemViewComponents</projectUrl>
+    <description>DLS Shared Component For Search, Sort and paginate</description>
+    <repository type="git" url="https://github.com/TechnologyEnhancedLearning/NHSDesignSystemViewComponents" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="FuzzySharp" version="2.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.FeatureManagement.AspNetCore" version="2.5.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\bin\Debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.dll" target="lib\netcoreapp3.1\NHSUKSearchSortFilterPaginate.dll" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableElements\common.css" target="wwwroot\css\shared\searchableElements\common.css" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableElements\filter.css" target="wwwroot\css\shared\searchableElements\filter.css" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableElements\itemsPerPage.css" target="wwwroot\css\shared\searchableElements\itemsPerPage.css" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableElements\pagination.css" target="wwwroot\css\shared\searchableElements\pagination.css" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableElements\search.css" target="wwwroot\css\shared\searchableElements\search.css" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableElements\searchableElements.css" target="wwwroot\css\shared\searchableElements\searchableElements.css" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\css\shared\searchableElements\sort.css" target="wwwroot\css\shared\searchableElements\sort.css" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\PaginatedPage\_BaseConfigurablePaginationNav.cshtml" target="Views\Shared\PaginatedPage\_BaseConfigurablePaginationNav.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\PaginatedPage\_BottomPaginationNav.cshtml" target="Views\Shared\PaginatedPage\_BottomPaginationNav.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\PaginatedPage\_BottomPaginationNavWithAlert.cshtml" target="Views\Shared\PaginatedPage\_BottomPaginationNavWithAlert.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\PaginatedPage\_Pagination.cshtml" target="Views\Shared\PaginatedPage\_Pagination.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\PaginatedPage\_TopPaginationNav.cshtml" target="Views\Shared\PaginatedPage\_TopPaginationNav.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\Configurations\_FullWidthSearchSortAndFilter.cshtml" target="Views\Shared\SearchablePage\Configurations\_FullWidthSearchSortAndFilter.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\Configurations\_ResultsCountAndItemsPerPage.cshtml" target="Views\Shared\SearchablePage\Configurations\_ResultsCountAndItemsPerPage.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\Configurations\_SortAndFilter.cshtml" target="Views\Shared\SearchablePage\Configurations\_SortAndFilter.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\Configurations\_ThreeQuarterWidthSearchAndFilter.cshtml" target="Views\Shared\SearchablePage\Configurations\_ThreeQuarterWidthSearchAndFilter.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\Configurations\_ThreeQuarterWidthSearchSortAndFilter.cshtml" target="Views\Shared\SearchablePage\Configurations\_ThreeQuarterWidthSearchSortAndFilter.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_AppliedFilterTag.cshtml" target="Views\Shared\SearchablePage\_AppliedFilterTag.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_BottomPagination.cshtml" target="Views\Shared\SearchablePage\_BottomPagination.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_FilterableTags.cshtml" target="Views\Shared\SearchablePage\_FilterableTags.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_Filters.cshtml" target="Views\Shared\SearchablePage\_Filters.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_ItemsPerPageSelect.cshtml" target="Views\Shared\SearchablePage\_ItemsPerPageSelect.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_ResultCountAndPageAlerts.cshtml" target="Views\Shared\SearchablePage\_ResultCountAndPageAlerts.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_Search.cshtml" target="Views\Shared\SearchablePage\_Search.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_SearchResultsCount.cshtml" target="Views\Shared\SearchablePage\_SearchResultsCount.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_SearchResultsCountWithAlert.cshtml" target="Views\Shared\SearchablePage\_SearchResultsCountWithAlert.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_SearchSortFilterInputsForPagination.cshtml" target="Views\Shared\SearchablePage\_SearchSortFilterInputsForPagination.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_Sort.cshtml" target="Views\Shared\SearchablePage\_Sort.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\Views\Shared\SearchablePage\_TopPagination.cshtml" target="Views\Shared\SearchablePage\_TopPagination.cshtml" />
+    <file src="C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\build\NHSUKSearchSortFilterPaginate.props" target="build\NHSUKSearchSortFilterPaginate.props" />
+  </files>
+</package>

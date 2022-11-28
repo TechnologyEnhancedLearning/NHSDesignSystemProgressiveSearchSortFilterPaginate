@@ -1,0 +1,12 @@
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\bin\Debug\net6.0\NHSUKSearchSortFilterPaginate.deps.json
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\bin\Debug\net6.0\NHSUKSearchSortFilterPaginate.dll
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\bin\Debug\net6.0\NHSUKSearchSortFilterPaginate.pdb
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\net6.0\NHSUKSearchSortFilterPaginate.csproj.AssemblyReference.cache
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\net6.0\NHSUKSearchSortFilterPaginate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\net6.0\NHSUKSearchSortFilterPaginate.AssemblyInfoInputs.cache
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\net6.0\NHSUKSearchSortFilterPaginate.AssemblyInfo.cs
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\net6.0\NHSUKSearchSortFilterPaginate.csproj.CoreCompileInputs.cache
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\net6.0\NHSUKSearchSortFilterPaginate.dll
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\net6.0\refint\NHSUKSearchSortFilterPaginate.dll
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\net6.0\NHSUKSearchSortFilterPaginate.pdb
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\net6.0\ref\NHSUKSearchSortFilterPaginate.dll

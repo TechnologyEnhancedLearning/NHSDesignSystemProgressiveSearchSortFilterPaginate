@@ -1,0 +1,10 @@
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\bin\Debug\netcoreapp3.1\DigitalLearningSolutions.Web.deps.json
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\bin\Debug\netcoreapp3.1\DigitalLearningSolutions.Web.dll
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\bin\Debug\netcoreapp3.1\DigitalLearningSolutions.Web.pdb
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Web.csproj.AssemblyReference.cache
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Web.AssemblyInfoInputs.cache
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Web.AssemblyInfo.cs
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Web.csproj.CoreCompileInputs.cache
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Web.dll
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Web.pdb

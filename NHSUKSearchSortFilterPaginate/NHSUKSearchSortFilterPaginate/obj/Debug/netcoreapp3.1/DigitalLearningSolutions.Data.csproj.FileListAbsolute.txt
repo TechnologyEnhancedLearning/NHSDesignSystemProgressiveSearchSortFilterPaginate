@@ -1,0 +1,20 @@
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\bin\Debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.deps.json
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\bin\Debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.dll
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\bin\Debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.pdb
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.csproj.AssemblyReference.cache
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.AssemblyInfoInputs.cache
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.AssemblyInfo.cs
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.csproj.CoreCompileInputs.cache
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.dll
+C:\Development\DLS nuget\DigitalLearningSolutions\NHSUKSearchSortFilterPaginate\obj\Debug\netcoreapp3.1\NHSUKSearchSortFilterPaginate.pdb
+C:\Development\DLS nuget\DigitalLearningSolutions working backup\DigitalLearningSolutions.Data\bin\Debug\netcoreapp3.1\DigitalLearningSolutions.Data.deps.json
+C:\Development\DLS nuget\DigitalLearningSolutions working backup\DigitalLearningSolutions.Data\bin\Debug\netcoreapp3.1\DigitalLearningSolutions.Data.dll
+C:\Development\DLS nuget\DigitalLearningSolutions working backup\DigitalLearningSolutions.Data\bin\Debug\netcoreapp3.1\DigitalLearningSolutions.Data.pdb
+C:\Development\DLS nuget\DigitalLearningSolutions working backup\DigitalLearningSolutions.Data\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Data.csproj.AssemblyReference.cache
+C:\Development\DLS nuget\DigitalLearningSolutions working backup\DigitalLearningSolutions.Data\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\DLS nuget\DigitalLearningSolutions working backup\DigitalLearningSolutions.Data\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Data.AssemblyInfoInputs.cache
+C:\Development\DLS nuget\DigitalLearningSolutions working backup\DigitalLearningSolutions.Data\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Data.AssemblyInfo.cs
+C:\Development\DLS nuget\DigitalLearningSolutions working backup\DigitalLearningSolutions.Data\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Data.csproj.CoreCompileInputs.cache
+C:\Development\DLS nuget\DigitalLearningSolutions working backup\DigitalLearningSolutions.Data\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Data.dll
+C:\Development\DLS nuget\DigitalLearningSolutions working backup\DigitalLearningSolutions.Data\obj\Debug\netcoreapp3.1\DigitalLearningSolutions.Data.pdb
