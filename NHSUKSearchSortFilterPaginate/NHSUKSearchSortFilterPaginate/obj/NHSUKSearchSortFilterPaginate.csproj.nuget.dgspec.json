@@ -1,34 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\NHSDesignSystemSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate.csproj": {}
+    "C:\\Users\\Oluwatobi.awe\\Source\\Repos\\NHSDesignSystemSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate.csproj": {}
   },
   "projects": {
-    "C:\\Development\\NHSDesignSystemSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate.csproj": {
-      "version": "1.0.3",
+    "C:\\Users\\Oluwatobi.awe\\Source\\Repos\\NHSDesignSystemSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\NHSDesignSystemSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate.csproj",
+        "projectUniqueName": "C:\\Users\\Oluwatobi.awe\\Source\\Repos\\NHSDesignSystemSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate.csproj",
         "projectName": "NHSUKSearchSortFilterPaginate",
-        "projectPath": "C:\\Development\\NHSDesignSystemSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate.csproj",
-        "packagesPath": "C:\\Users\\man_l\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\NHSDesignSystemSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\obj\\",
+        "projectPath": "C:\\Users\\Oluwatobi.awe\\Source\\Repos\\NHSDesignSystemSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate.csproj",
+        "packagesPath": "C:\\Users\\Oluwatobi.awe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oluwatobi.awe\\Source\\Repos\\NHSDesignSystemSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\NHSUKSearchSortFilterPaginate\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\man_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Oluwatobi.awe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Development\\DLS nuget\\DLSPaginationSearchSort\\DLSPaginationSearchSort\\bin\\Debug": {},
-          "C:\\Development\\NHS nuget source code\\NHSUKViewComponents.Web\\bin\\Debug": {},
+          "C:\\NugetSource": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/e-LfH/_packaging/LearningHubFeed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -61,7 +57,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -70,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

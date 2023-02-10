@@ -3,10 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Description>NHS Search, Sort and Pagination 1.0.3 release</Description>
+    <Description>NHS Search, Sort and Pagination</Description>
     <PackageId>NHSUKSearchSortFilterPaginate</PackageId>
     <Nullable>enable</Nullable>    
-    <Version>1.0.3</Version>
+    <Version></Version>    
+    <Authors>HEE</Authors>    
+    <Company>TEL</Company>    
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
   
   <ItemGroup>
