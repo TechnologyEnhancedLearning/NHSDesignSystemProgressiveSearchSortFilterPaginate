@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "NHSUKSearchSortFilterPaginate/1.0.3": {
+      "NHSUKSearchSortFilterPaginate/1.0.0": {
         "dependencies": {
           "FuzzySharp": "2.0.2",
           "Microsoft.FeatureManagement.AspNetCore": "2.0.0"
@@ -1664,7 +1664,7 @@
     }
   },
   "libraries": {
-    "NHSUKSearchSortFilterPaginate/1.0.3": {
+    "NHSUKSearchSortFilterPaginate/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
